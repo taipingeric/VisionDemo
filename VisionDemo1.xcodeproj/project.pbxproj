@@ -30,6 +30,7 @@
 		467C14491F5E88C500B40FD6 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 		467C144B1F5E9C1200B40FD6 /* VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC.swift; sourceTree = "<group>"; };
 		467C144D1F5E9C2E00B40FD6 /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
+		46EB9FCF1F82434F00E35CB6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		46F899E21F8242B400B410E0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -47,6 +48,7 @@
 		467C14291F5E861D00B40FD6 = {
 			isa = PBXGroup;
 			children = (
+				46EB9FCF1F82434F00E35CB6 /* README.md */,
 				46F899E21F8242B400B410E0 /* LICENSE */,
 				467C14341F5E861D00B40FD6 /* VisionDemo1 */,
 				467C14331F5E861D00B40FD6 /* Products */,
