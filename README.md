@@ -1,9 +1,9 @@
 # iOS 11 Vision framework Demo for face detection
 a sample code about Vision framework demo basiclly from Apple WWDC17
 
-**SingleImageVC** is for single static image
+**SingleImageVC** is for single static image detection
 
-**PixelBufferVC** is face detection from pixel buffer captured by camera 
+**PixelBufferVC** is a face detection from pixel buffer captured by camera 
 
 *NOTE: Definitely the updating UI mechanism is not a good way*
 
