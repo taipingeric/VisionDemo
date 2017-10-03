@@ -8,28 +8,28 @@
 
 /* Begin PBXBuildFile section */
 		467C14361F5E861D00B40FD6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14351F5E861D00B40FD6 /* AppDelegate.swift */; };
-		467C14381F5E861D00B40FD6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14371F5E861D00B40FD6 /* ViewController.swift */; };
+		467C14381F5E861D00B40FD6 /* SingleImageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14371F5E861D00B40FD6 /* SingleImageVC.swift */; };
 		467C143B1F5E861D00B40FD6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 467C14391F5E861D00B40FD6 /* Main.storyboard */; };
 		467C143D1F5E861D00B40FD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 467C143C1F5E861D00B40FD6 /* Assets.xcassets */; };
 		467C14401F5E861D00B40FD6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 467C143E1F5E861D00B40FD6 /* LaunchScreen.storyboard */; };
-		467C14481F5E866700B40FD6 /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14471F5E866700B40FD6 /* ViewController2.swift */; };
+		467C14481F5E866700B40FD6 /* PixelBufferVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14471F5E866700B40FD6 /* PixelBufferVC.swift */; };
 		467C144A1F5E88C500B40FD6 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C14491F5E88C500B40FD6 /* Helper.swift */; };
-		467C144C1F5E9C1200B40FD6 /* VC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C144B1F5E9C1200B40FD6 /* VC.swift */; };
-		467C144E1F5E9C2E00B40FD6 /* VC2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C144D1F5E9C2E00B40FD6 /* VC2.swift */; };
+		467C144C1F5E9C1200B40FD6 /* SingleImageVCTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C144B1F5E9C1200B40FD6 /* SingleImageVCTemplate.swift */; };
+		467C144E1F5E9C2E00B40FD6 /* PixelBufferVCTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 467C144D1F5E9C2E00B40FD6 /* PixelBufferVCTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		467C14321F5E861D00B40FD6 /* VisionDemo1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VisionDemo1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		467C14351F5E861D00B40FD6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		467C14371F5E861D00B40FD6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		467C14371F5E861D00B40FD6 /* SingleImageVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleImageVC.swift; sourceTree = "<group>"; };
 		467C143A1F5E861D00B40FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		467C143C1F5E861D00B40FD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		467C143F1F5E861D00B40FD6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		467C14411F5E861D00B40FD6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		467C14471F5E866700B40FD6 /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
+		467C14471F5E866700B40FD6 /* PixelBufferVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PixelBufferVC.swift; sourceTree = "<group>"; };
 		467C14491F5E88C500B40FD6 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
-		467C144B1F5E9C1200B40FD6 /* VC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC.swift; sourceTree = "<group>"; };
-		467C144D1F5E9C2E00B40FD6 /* VC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VC2.swift; sourceTree = "<group>"; };
+		467C144B1F5E9C1200B40FD6 /* SingleImageVCTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SingleImageVCTemplate.swift; sourceTree = "<group>"; };
+		467C144D1F5E9C2E00B40FD6 /* PixelBufferVCTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PixelBufferVCTemplate.swift; sourceTree = "<group>"; };
 		46EB9FCF1F82434F00E35CB6 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		46F899E21F8242B400B410E0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -67,10 +67,10 @@
 			isa = PBXGroup;
 			children = (
 				467C14351F5E861D00B40FD6 /* AppDelegate.swift */,
-				467C144B1F5E9C1200B40FD6 /* VC.swift */,
-				467C14371F5E861D00B40FD6 /* ViewController.swift */,
-				467C144D1F5E9C2E00B40FD6 /* VC2.swift */,
-				467C14471F5E866700B40FD6 /* ViewController2.swift */,
+				467C144B1F5E9C1200B40FD6 /* SingleImageVCTemplate.swift */,
+				467C14371F5E861D00B40FD6 /* SingleImageVC.swift */,
+				467C144D1F5E9C2E00B40FD6 /* PixelBufferVCTemplate.swift */,
+				467C14471F5E866700B40FD6 /* PixelBufferVC.swift */,
 				467C14491F5E88C500B40FD6 /* Helper.swift */,
 				467C14391F5E861D00B40FD6 /* Main.storyboard */,
 				467C143C1F5E861D00B40FD6 /* Assets.xcassets */,
@@ -152,11 +152,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				467C14381F5E861D00B40FD6 /* ViewController.swift in Sources */,
+				467C14381F5E861D00B40FD6 /* SingleImageVC.swift in Sources */,
 				467C14361F5E861D00B40FD6 /* AppDelegate.swift in Sources */,
-				467C14481F5E866700B40FD6 /* ViewController2.swift in Sources */,
-				467C144E1F5E9C2E00B40FD6 /* VC2.swift in Sources */,
-				467C144C1F5E9C1200B40FD6 /* VC.swift in Sources */,
+				467C14481F5E866700B40FD6 /* PixelBufferVC.swift in Sources */,
+				467C144E1F5E9C2E00B40FD6 /* PixelBufferVCTemplate.swift in Sources */,
+				467C144C1F5E9C1200B40FD6 /* SingleImageVCTemplate.swift in Sources */,
 				467C144A1F5E88C500B40FD6 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

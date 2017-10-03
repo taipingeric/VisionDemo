@@ -8,7 +8,7 @@
 
 import UIKit
 
-class VC: UIViewController {
+class SingleImageVCTemplate: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
     

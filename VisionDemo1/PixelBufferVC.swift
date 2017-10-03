@@ -2,7 +2,7 @@ import AVFoundation
 import Vision
 import UIKit
 
-class ViewController2: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate {
+class PixelBufferVC: UIViewController, AVCaptureVideoDataOutputSampleBufferDelegate {
     
     @IBOutlet private weak var cameraView: UIView?
     

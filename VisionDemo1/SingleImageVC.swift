@@ -9,7 +9,7 @@
 import UIKit
 import Vision
 
-class ViewController: UIViewController {
+class SingleImageVC: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
     
