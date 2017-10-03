@@ -19,3 +19,12 @@ func transformRect(fromRect: CGRect , toViewRect :UIView) -> CGRect {
     
     return toRect
 }
+
+
+func makeBorderView(frame: CGRect) -> UIView {
+    let view = UIView(frame: frame)
+    view.layer.borderColor = UIColor.red.cgColor
+    view.layer.borderWidth = 3
+    view.backgroundColor = .clear
+    return view
+}

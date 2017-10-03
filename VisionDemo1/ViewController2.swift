@@ -51,10 +51,7 @@ class ViewController2: UIViewController, AVCaptureVideoDataOutputSampleBufferDel
             
             for observation in observations {
                 let convertedRect = transformRect(fromRect: observation.boundingBox, toViewRect: self.cameraView!)
-                let view = UIView(frame: convertedRect)
-                view.layer.borderColor = UIColor.red.cgColor
-                view.layer.borderWidth = 3
-                view.backgroundColor = .clear
+                let view = makeBorderView(frame: convertedRect)
                 self.cameraView!.addSubview(view)
                 self.views.append(view)
             }

@@ -30,12 +30,10 @@ class ViewController: UIViewController {
         }
         for observation in observations {
             let convertedRect = transformRect(fromRect: observation.boundingBox, toViewRect: self.imageView)
-            let view = UIView(frame: convertedRect)
-            view.layer.borderColor = UIColor.red.cgColor
-            view.layer.borderWidth = 3
-            view.backgroundColor = .clear
-            self.imageView!.addSubview(view)
+            let view = makeBorderView(frame: convertedRect)
+            imageView.addSubview(view)
         }
     }
 }
+
 
