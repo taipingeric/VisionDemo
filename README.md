@@ -5,7 +5,7 @@ a sample code about Vision framework demo basiclly from Apple WWDC17
 
 **PixelBufferVC** is a face detection from pixel buffer captured by camera 
 
-*NOTE: Definitely the updating UI mechanism is not a good way*
+*NOTE: Definitely the updating UI mechanism in PixelBufferVC is not a good way, just try yours*
 
 slides: https://www.slideshare.net/ChihyangLi/ios-vision-framework
 
