@@ -1,5 +1,5 @@
 # iOS 11 Vision framework Demo for face detection
-a sample code about Vision framework demo basiclly from Apple WWDC17
+a sample code about Vision framework demo basically from Apple WWDC17
 
 **SingleImageVC** is for single static image detection
 
